@@ -1,0 +1,11 @@
+{
+  "name": "clone",
+  "version": "1.0.0",
+  "description": "This is the clone of youtube",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Kasana",
+  "license": "ISC"
+}
